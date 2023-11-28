@@ -1,0 +1,180 @@
+body{
+    background:linear-gradient(120deg, rgb(148,18,18) 50%, rgb(1,35,81) 50%)
+}
+.container{
+    
+    background-color:#1A2841;
+    margin: 50px 100px;
+    /* width: 1370px; */
+    height: 800px;
+    position: relative;
+    background-image: url(/images/aranha-logo\ 1.png);
+    background-repeat: no-repeat;
+    
+}
+
+html{
+    overflow: hidden;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+.miles img{
+    margin-left: 20px   ;
+}
+
+
+
+.header ol{
+    list-style: none;
+    display: flex;
+    align-items:center;
+    
+    color: red;
+}
+
+.header ol li{
+    margin-left: 20px;
+    gap: 50px;
+}
+
+
+
+.header ol:hover{
+    cursor:pointer;
+    color: #fff;
+}
+
+.miles{
+    display: flex;
+    align-items:center;
+    
+}
+
+
+.spider img{
+    margin-left: 172px;
+    margin-bottom: 24px;
+
+}
+
+.spider p{
+    width: 495px;
+    height: 73px;
+    margin-left: 40px;
+    color:white;
+    font-size: 14px;
+    margin-bottom: 34px;
+    text-align: center;
+}
+
+.btn{
+    width: 365px;
+    height: 67px;
+    margin-left: 103px;
+    display: flex;
+    gap: 20px;
+      
+}
+
+.btn-lift:hover{
+    cursor: pointer;
+    color:black;
+}
+
+.btn-right:hover{
+    cursor: pointer;
+    color:black;
+}
+
+.btn-right{
+    margin-left: 15px;
+    
+    width: 200px;
+    height: 67px;
+    border-radius: 10px;
+    background-color:#FF0000;
+    color:white;
+    box-shadow:4px 5px 3px 4px #FF0000;
+    border:none;
+}
+
+.btn-lift{
+    width: 150px;
+    height: 67px;
+    margin-left: 15px;
+    /* padding: 23px 42px; */
+    border-radius: 10px;
+    background-color:#FF0000;
+    color:white;
+    box-shadow:4px 5px 3px 4px #FF0000;
+    border:none;
+}
+
+.main-lift img{
+    display: flex;
+    align-items:center;
+    width: 890px;
+    height: 643px;
+  
+
+}
+
+.trajes{
+    display: flex;
+    align-items:center;
+    margin-top: 113px;
+}
+
+.img-lift{
+    position: absolute;
+    margin-left: 500px;
+     margin-top: 170px; 
+    width: 890px;
+    height: 643px;
+}
+
+.aranha ul li{
+    list-style: none;
+}
+
+.aranha ul li h3{
+    color:white;
+    /* width: 73px;
+    height: 26px; */
+}
+
+.aranha ul li p{
+    color:white;
+    width: 202px;
+    height: 97px;
+    font-size: 10px;
+    
+    
+    
+}
+
+.aranha ul{
+    display: flex;
+}
+
+.aranha ul li{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 50px;
+    
+}
+
+
+
+
+
+
+
+
